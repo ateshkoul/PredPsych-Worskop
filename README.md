@@ -20,6 +20,4 @@ source("C:/Users/koul/Documents/run_me_first.R")
 
 In case of errors/doubts, please feel free to ask a question on the PredPsych google group: https://groups.google.com/forum/#!forum/predpsych
 
-For a faster resolution or clarification, please email us to be added to intobrain.slack.com
-
 Please refer to the PredPsych paper here: https://link.springer.com/article/10.3758/s13428-017-0987-2
