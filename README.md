@@ -10,7 +10,7 @@ This step should ask you for the CRAN repository (choose the one closest to you)
 
 After selection, the command should download required packages (This might take a bit!)
 
-After installation, please run (source) the file 'first_run_me.R' by either:
+After installation, please download the R file 'first_run_me.R' by clicking on the file link in github and right clicking on 'save link as' on raw (see screenshot). After this, run (source) the file  by either:
 
 1.	opening in Rstudio and clicking source (see screenshot in the Screenshots folder).
 2.	Running the command:
