@@ -1,5 +1,5 @@
 # PredPsych
-Materials for the MeeTo 2018: Workshop 'PredPsych'
+Materials for the JAM VIII ‘PredPsych’, a R based toolbox for machine learning in experimental psychology (and previously MeeTo 2018: Workshop 'PredPsych')
 
 Please choose the appropriate operating system and install the softwares.
 After installing the softwares, Please run (see also the screenshot):
