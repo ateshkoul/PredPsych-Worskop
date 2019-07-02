@@ -1,0 +1,5 @@
+Unfortunately, since github has stopped allowing files > 100 MB, please use:
+
+https://download1.rstudio.org/desktop/xenial/amd64/rstudio-1.2.1335-amd64.deb
+
+to download Rstudio
