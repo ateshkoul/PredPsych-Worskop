@@ -2,6 +2,9 @@
 Materials for the JAM VIII ‘PredPsych’, a R based toolbox for machine learning in experimental psychology (and previously MeeTo 2018: Workshop 'PredPsych')
 
 Please choose the appropriate operating system and install the softwares.
+
+NOTE for users with R version (< 3.5.0): One of the dependency of 'PredPsych' - 'mvtnorm' has an updated requirement of R version (≥ 3.5.0). Due to this, even though 'PredPsych' works with R versions (≥ 3.1.0), it now requires R version (≥ 3.5.0). Please update your R versions to (≥ 3.5.0).
+
 After installing the softwares, Please run (see also the screenshot):
 
 install.packages("PredPsych",dependencies = TRUE)
