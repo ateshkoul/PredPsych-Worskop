@@ -25,7 +25,7 @@
  That's it! you are ready to use PredPsych
  
 
-Advanced:
+Advanced (for other OS):
 
 After step 1:
 
